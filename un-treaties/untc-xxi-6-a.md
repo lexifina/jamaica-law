@@ -2,3 +2,4 @@
 UN Treaty Collection reference: XXI-6-a.
 Depositary: Secretary-General of the United Nations.
 Signature: 1994-07-29.
+Ratification: 1994-11-16.
