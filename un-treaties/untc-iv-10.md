@@ -2,3 +2,4 @@
 UN Treaty Collection reference: IV-10.
 Depositary: Secretary-General of the United Nations.
 Signature: 1986-05-16.
+Ratification: 1986-10-02.
