@@ -2,3 +2,4 @@
 UN Treaty Collection reference: VI-19.
 Depositary: Secretary-General of the United Nations.
 Signature: 1989-10-02.
+Ratification: 1995-12-29.
