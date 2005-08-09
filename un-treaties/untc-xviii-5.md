@@ -2,3 +2,4 @@
 UN Treaty Collection reference: XVIII-5.
 Depositary: Secretary-General of the United Nations.
 Signature: 1980-02-27.
+Ratification: 2005-08-09.
