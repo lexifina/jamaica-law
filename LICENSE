@@ -1,0 +1,11 @@
+This repository holds facts only: the number, title and date of assent of Acts of Jamaica, as listed in the "Report on Acts passed in
+Parliament" PDFs of the Houses of Parliament of Jamaica (https://www.japarliament.gov.jm/). Facts are not protected by copyright. No
+text of any Act, and none of the reports' descriptive wording, is copied.
+
+Treaty actions (treaty name, action, date, depositary) come from the UN Treaty Collection, https://treaties.un.org/, as facts only. For 2016-2022, the number, title and PDF link of each Act come from the yearly 'Acts Passed' lists of the same Houses of Parliament, retrieved 30 October 2026.
+
+The WIPO catalogue entries and wipo-treaties facts (titles, subjects, dates, administering organisation, links) come from WIPO Lex, https://www.wipo.int/wipolex/, retrieved 30 October 2026, whose content is published under CC BY 4.0 (https://www.wipo.int/web/terms-of-use). Only facts are copied. Source: World Intellectual Property Organization. Changes made by Lexifina: records were turned into one Markdown file per record, with the dates arranged as a git history. WIPO does not endorse this repository.
+
+The arrangement of this repository, its tables, commit messages and tools are by Lexifina and may be reused under the Creative
+Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/). This repository is not legal advice
+and not an official publication.

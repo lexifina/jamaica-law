@@ -1,0 +1,9 @@
+{
+  "path": "jm",
+  "code": "JM",
+  "name": "Jamaica",
+  "level": "country",
+  "repo": "https://github.com/lexifina/jamaica-law",
+  "build": "metadata only: catalogue of Acts assented to in 2010-2011 (no law text)",
+  "register_date": "2026-10-30"
+}
