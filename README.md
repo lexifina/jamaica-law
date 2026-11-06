@@ -1,5 +1,7 @@
 # Jamaica: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Jamaica's national law, which global-law reads at `jamaica/national/acts/`.
+
 **Metadata only, no law text.** This repository holds a catalogue of Acts of Jamaica: for each Act, its number, title and the date the Governor-General gave assent. It does not hold the text of any Act, including the Constitution.
 
 **What is in it now**
