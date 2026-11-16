@@ -61,6 +61,7 @@ Each day's entries are credited to a record named for that day (`Catalogue entri
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus, whose hash is in `data/corpus.sha256`; it also checks that every commit's trailers parse, that `main` has no merge commits and that no commit is dated in the future.
 - `tools/build.py` writes the history from that one corpus file, and the same corpus gives the same commit hashes. [`REPRODUCE.md`](REPRODUCE.md) records that the checks were not yet run for this build and that no second build has been compared.
 - `data/versions.json` gives each version's source and the sha256 of what it was read from. Only facts are taken: numbers, titles, dates and links.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each day's entries are credited to a record named for that day (`Catalogue entri
 See [`LICENSE`](LICENSE). Only facts are taken, which copyright does not protect: no text of any Act, and none of the reports' wording; WIPO Lex's content is CC BY 4.0 (source: World Intellectual Property Organization, which does not endorse this repository). Lexifina's arrangement, tables, commit messages and tools are CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and no model runs when the history is built (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
